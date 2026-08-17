@@ -1,8 +1,8 @@
 {
-  "versionCode": 49,
-  "versionName": "0.3.19",
+  "versionCode": 50,
+  "versionName": "0.3.20",
   "mandatory": false,
-  "apkUrl": "https://github.com/betolefort/costafort-rondas-releases/releases/download/v0.3.19/COSTAFORT_Rondas_v0.3.19.apk",
-  "sha256": "0f4daf93f818b3322fbd61c7688ff3e63d5735c25d0268e0f7549d34d9312342",
+  "apkUrl": "https://github.com/betolefort/costafort-rondas-releases/releases/download/v0.3.20/COSTAFORT_Rondas_v0.3.20.apk",
+  "sha256": "093116dcbf3c28a33f48c6bfe9c6df920571a9004eed9ee1fe40c42dfb17457d",
   "message": "Nova versão do COSTAFORT Rondas disponível."
 }
