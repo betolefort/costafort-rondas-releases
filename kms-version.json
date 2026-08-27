@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
-  "versionName": "0.3.10",
+  "versionCode": 43,
+  "versionName": "0.3.11",
   "mandatory": false,
-  "apkUrl": "https://github.com/betolefort/costafort-rondas-releases/releases/download/kms-v0.3.10/KMs_COSTAFORT_v0.3.10.apk",
-  "sha256": "2a0d30b65a5e61d1fdedb022912378bda6701d0d3a5394135af4fea513577454",
+  "apkUrl": "https://github.com/betolefort/costafort-rondas-releases/releases/download/kms-v0.3.11/KMs_COSTAFORT_v0.3.11.apk",
+  "sha256": "88c4ee738ce4c909279a12c2f90e83b589aa7c0e1d929856577e7fe5c94575c5",
   "message": "Nova versão do KMs COSTAFORT disponível."
 }
