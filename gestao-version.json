@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
+  "versionCode": 2,
+  "versionName": "0.1.1",
   "mandatory": false,
-  "apkUrl": "https://github.com/betolefort/costafort-rondas-releases/releases/download/gestao-v0.1.0/Gestao_COSTAFORT_v0.1.0.apk",
-  "sha256": "38612c3622daf681ff3af62f3d01ec48b7b8bda3d916ae5f5be3c94d638179b9",
+  "apkUrl": "https://github.com/betolefort/costafort-rondas-releases/releases/download/gestao-v0.1.1/Gestao_COSTAFORT_v0.1.1.apk",
+  "sha256": "89b265b240ea8a256a70e8877b9e6a561199915673fc0aad9661f5cd2a1d0456",
   "message": "Nova versão do Gestão COSTAFORT disponível."
 }
