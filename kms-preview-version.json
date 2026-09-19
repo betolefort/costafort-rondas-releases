@@ -1,8 +1,8 @@
 {
-  "versionCode": 55,
-  "versionName": "1.3.0-preview.5",
+  "versionCode": 56,
+  "versionName": "1.3.0-preview.6-recovery",
   "mandatory": false,
-  "apkUrl": "https://github.com/betolefort/costafort-rondas-releases/releases/download/preview-condicao-vtr-20260918/KMs_COSTAFORT_TESTE_CONDICAO_VTR_v1.3.0-preview.5.apk",
-  "sha256": "a814f6d63715f88ffe030db1f3d48d7016ece733ba45d3b7e8c2b28fbcad03ab",
+  "apkUrl": "https://github.com/betolefort/costafort-rondas-releases/releases/download/preview-condicao-vtr-20260918/KMs_COSTAFORT_TESTE_CONDICAO_VTR_v1.3.0-preview.6-recovery.apk",
+  "sha256": "e8418ce2eeb7b9f4dbaa423e617dc7241dd9d9db811495e48f896ff02bb01ef9",
   "message": "Nova versão de teste do KMs disponível."
 }
