@@ -1,0 +1,8 @@
+COSTAFORT Rondas - falha de build de produção
+Versão: 
+Version code: 
+Commit: d14eb37093df83ce2a9490c5eb3e473212992277
+Data UTC: 2026-09-19T12:40:49Z
+
+Últimas linhas do build:
+O build falhou antes de gerar o log do Gradle.
