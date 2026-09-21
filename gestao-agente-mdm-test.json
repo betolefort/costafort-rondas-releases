@@ -1,0 +1,8 @@
+{
+  "versionCode": 13,
+  "versionName": "0.5.1",
+  "mandatory": false,
+  "apkUrl": "https://github.com/betolefort/costafort-rondas-releases/releases/download/gestao-agente-mdm-test-v0.5.1-a47848eaac49/Agente_COSTAFORT_MDM_TEST_v0.5.1_a47848eaac49.apk",
+  "sha256": "582aef1969139e8b4d61a998b70019121f6d4c0ac283b042fbb7d2e33ab9756a",
+  "message": "Candidata MDM do Agente COSTAFORT v0.5.1 para reteste físico de ALERT/MESSAGE."
+}
