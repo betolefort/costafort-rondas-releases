@@ -1,8 +1,8 @@
 {
-  "versionCode": 96,
-  "versionName": "0.3.61-rc1",
+  "versionCode": 97,
+  "versionName": "0.3.61",
   "mandatory": false,
-  "apkUrl": "https://github.com/betolefort/costafort-rondas-releases/releases/download/rondas-rc-v0.3.61-rc1/COSTAFORT_Rondas_RC_v0.3.61-rc1.apk",
-  "sha256": "3a55d2e4c2a6984cfe64e81ca9abe0aa7c81e845e7e50ab99c24f9b2602ea46f",
-  "message": "Homologação do hardening do SOS disponível."
+  "apkUrl": "https://github.com/betolefort/costafort-rondas-releases/releases/download/v0.3.61/COSTAFORT_Rondas_v0.3.61.apk",
+  "sha256": "1e8c5816851524c58c3a6e10dcfd93146a68e32e914356ffac41c739c9c9d1e3",
+  "message": "Versão estável do COSTAFORT Rondas disponível."
 }
