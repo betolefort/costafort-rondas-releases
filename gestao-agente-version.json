@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.0",
+  "versionCode": 16,
+  "versionName": "1.0.1",
   "mandatory": false,
-  "apkUrl": "https://github.com/betolefort/costafort-rondas-releases/releases/download/gestao-agente-v1.0.0/Agente_COSTAFORT_v1.0.0.apk",
-  "sha256": "b84912db7c342faa1dac4e18b8737417b35509901ff6be16900033bbf907796f",
+  "apkUrl": "https://github.com/betolefort/costafort-rondas-releases/releases/download/gestao-agente-v1.0.1/Agente_COSTAFORT_v1.0.1.apk",
+  "sha256": "4dedbd188bebacd2756a14b2f5e5113d03a90a4285af0baf8507ce2795410e11",
   "message": "Nova versão do Agente COSTAFORT disponível."
 }
